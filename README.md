@@ -33,7 +33,7 @@
 ```
 
 ```sh
-   git push origin main (o el nombre de la rama actual)
+   git push -u origin main (o el nombre de la rama actual)
 ```
 
 ### Guardar cambios en repositorios existentes
